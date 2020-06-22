@@ -136,7 +136,7 @@ $ npm start
 
 访问开发服务 `http://localhost:8000 `。
 
-![demo]('./demo.png')
+![demo
 
 ## 打包编译
 
